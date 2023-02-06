@@ -1,9 +1,9 @@
-FullScreenMario
+Mario
 ===============
 
-### ***This code is outdated, poorly written, and due to be phased out within a year. It is kept here for historical purposes only. A new version is under development.***
+### ***This code is outdated, poorly written, and due to be phased out within a year. A new version is under development.***
 
-*Active development of a version of FullScreenMario that uses JSON for maps and JS objects for Things is located at https://github.com/Diogenesthecynic/FullScreenMario-JSON. Not all functionality has been copied over to that project, and many maps there are missing key features. Once it has completely made up the features from the main branch, it will be merged back into the project here.*
+*Active development of a version of Mario that uses JSON for maps and JS objects. Not all functionality has been copied over to that project, and many maps there are missing key features. Once it has completely made up the features from the main branch, it will be merged back into the project here.*
 
 An HTML5 remake of the original Super Mario Brothers - expanded for modern browsing.
 
@@ -186,6 +186,6 @@ Here's a quick set of cheat codes you can use during the game. If you're using t
 
 ## Developers & Legal
 
-This is released under the <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution Non-Commercial Share-Alike</a> license. Full Screen Mario is meant to be both a proof of concept and an entertaining pasttime, not a source of income</a>.
+This is released under the <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution Non-Commercial Share-Alike</a> license. Mario is meant to be both a proof of concept and an entertaining pasttime, not a source of income</a>.
 
 The whole project was originally hosted under www.fullscreenmario.com, but that site was taken down by Nintendo for copyright infringement.
